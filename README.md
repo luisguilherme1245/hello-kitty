@@ -1,2 +1,2 @@
 # hello-kitty
-primeiro projeto e luis (gordo)
+primeiro projeto de luis (gordo)
